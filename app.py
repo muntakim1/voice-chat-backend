@@ -10,7 +10,7 @@ parser = reqparse.RequestParser()
 parser.add_argument('text')
 
 kernel = aiml.Kernel()
-kernel.learn('./brain/brain.aiml')
+kernel.learn('./brain/*.aiml')
 listdata=[]
 class ApiBot(Resource):
     

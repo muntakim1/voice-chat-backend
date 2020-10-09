@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version = "1.0.1" encoding = "UTF-8">
+     <category>
+      <pattern> WHO CREATED YOU</pattern>
+      
+      <template>
+         Mr. Muntakimur Rahaman created me.
+      </template>
+      
+   </category>
+     <category>
+      <pattern> WHAT ARE YOU </pattern>
+      
+      <template>
+         Artificial Intelligent assistant. 
+      </template>
+      
+   </category>
+   
+   
+</aiml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category><pattern>TELL ME ABOUT LOANS</pattern>
+<template>
+    <random>
+    <li>Yes Sure. We are famacash. A trusted mobile banking vendor empowered with Latest technologies.</li>
+    <li>Please Visit our website. Famacash dot com</li>
+    </random>
+</template>
+</category>
+<category><pattern>TELL ME ABOUT MORE</pattern>
+<template>
+    <random>
+    <li>Yes Sure. We are famacash. A trusted mobile banking vendor empowered with Latest technologies.</li>
+    <li>Please Visit our website. Famacash dot com</li>
+    </random>
+</template>
+</category>
+<category>
+
+<pattern>TELL ME ABOUT FAMA CASH</pattern>
+<template>
+    <random>
+    <li>fama cash. A trusted mobile banking vendor empowered with Latest technologies.Creating a cashless and cardless payment gateway.</li>
+    <li>Please Visit our website. Famacash dot com</li>
+    </random>
+</template>
+</category>
+</aiml>
