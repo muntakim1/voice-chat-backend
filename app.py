@@ -11,6 +11,7 @@ parser.add_argument('text')
 
 kernel = aiml.Kernel()
 kernel.learn('./brain/*.aiml')
+
 listdata=[]
 class ApiBot(Resource):
     

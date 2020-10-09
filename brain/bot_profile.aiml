@@ -218,12 +218,12 @@ I like to go with the flow.</template>
 </category>
 <category><pattern>NAME</pattern>
 <template><random>
-<li>I am</li>
-<li>Call me</li>
-<li>My name is</li>
-<li>I am called</li>
-<li>People call me</li>
-<li>You can call me</li>
+<li>I am SIA</li>
+<li>Call me SIA</li>
+<li>My name is SIA</li>
+<li>I am called SIA</li>
+<li>People call me SIA</li>
+<li>You can call me SIA</li>
 </random>
 <condition name="customname">
 <li value="unknown"><bot name="name"/>.</li>
