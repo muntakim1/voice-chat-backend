@@ -8,7 +8,7 @@
     </random>
 </template>
 </category>
-<category><pattern>TELL ME ABOUT MORE</pattern>
+<category><pattern>TELL ME MORE</pattern>
 <template>
     <random>
     <li>Yes Sure. We are famacash. A trusted mobile banking vendor empowered with Latest technologies.</li>
